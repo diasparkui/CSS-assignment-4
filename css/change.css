@@ -1,0 +1,13 @@
+
+a {
+  background-color: red;
+  color: #ffffff;
+}
+a[href="https://www.google.com/"]{
+  background-color: green;
+  color: #ffffff;
+}
+a[href="https://www.google.com/doodles"]{
+  background-color: green;
+  color: #ffffff;
+}
